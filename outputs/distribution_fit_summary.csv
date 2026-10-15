@@ -1,0 +1,7 @@
+feature,skew,shapiro_p,aic_normal,aic_lognormal,ks_normal,ks_lognormal,best_fit
+mean_radius,0.94,3.105643573333165e-14,3051.2,2965.6,0.113,0.066,Log-normal
+mean_texture,0.65,7.283580702733753e-08,3277.9,3239.1,0.049,0.017,Log-normal
+mean_area,1.64,3.1962641979601284e-22,8290.3,8031.2,0.156,0.063,Log-normal
+mean_smoothness,0.46,8.600830547335662e-05,-3234.8,-3249.8,0.036,0.026,Log-normal
+mean_compactness,1.19,3.96720387509556e-17,-1729.1,-1892.8,0.101,0.031,Log-normal
+area_error,5.43,2.652702990292784e-35,5962.1,5102.9,0.233,0.108,Log-normal
